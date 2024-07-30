@@ -1,4 +1,4 @@
 # spam-detection-system
 A SPAM message identification solution
 
-![Spam image](images/spam.png)
+![Spam Image](https://github.com/miracle-a-osigwe/spam-detection-system/blob/main/images/spam.png)
