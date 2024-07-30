@@ -1,0 +1,7 @@
+nltk.txt
+Procfile
+scripts.bat
+spam_env
+.vscode
+.ipynb_checkpoints
+__pycache__
